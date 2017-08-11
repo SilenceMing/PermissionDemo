@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissonsLibrary</string>
+    <string name="permission_desc_text2">APP需要%1$s的权限为您提供服务,是否去设置</string>
+    <string name="settings">设置</string>
+</resources>
